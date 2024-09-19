@@ -1,0 +1,15 @@
+
+.navbar{
+    background-color: blueviolet;
+    color: antiquewhite;
+    margin-top: 0%
+
+}
+ul{
+    height: 70px;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: xx-large;
+}

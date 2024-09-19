@@ -1,0 +1,32 @@
+.Icons{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+.box{
+    border: 1px none red;
+    width: 100px;
+    height: 100px;
+}
+
+.angular{
+   background-image: url(./assets/logo.svg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+}
+.react{
+    background-image: url(./assets/react.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+ }
+ .vue{
+    background-image: url(./assets/vue.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+ }
+ p{
+    font-size: larger;
+ }

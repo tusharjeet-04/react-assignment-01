@@ -1,0 +1,16 @@
+.image{
+    background-image: url(./assets/Why-we-use-ReactJS-for-our-projects-Illustration.jpg);
+    width: 100%;
+    height: 250px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+    font-size: 80px;
+}
